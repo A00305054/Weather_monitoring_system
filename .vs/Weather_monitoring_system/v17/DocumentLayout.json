@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ankit\\source\\repos\\Weather_monitoring_system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B610081-41D8-440F-BD34-117D3D9ED9C5}|Weather_monitoring_system_library\\Weather_monitoring_system_library.csproj|c:\\users\\ankit\\source\\repos\\weather_monitoring_system\\weather_monitoring_system_library\\forecastdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B610081-41D8-440F-BD34-117D3D9ED9C5}|Weather_monitoring_system_library\\Weather_monitoring_system_library.csproj|solutionrelative:weather_monitoring_system_library\\forecastdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B610081-41D8-440F-BD34-117D3D9ED9C5}|Weather_monitoring_system_library\\Weather_monitoring_system_library.csproj|c:\\users\\ankit\\source\\repos\\weather_monitoring_system\\weather_monitoring_system_library\\statisticsdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B610081-41D8-440F-BD34-117D3D9ED9C5}|Weather_monitoring_system_library\\Weather_monitoring_system_library.csproj|solutionrelative:weather_monitoring_system_library\\statisticsdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B610081-41D8-440F-BD34-117D3D9ED9C5}|Weather_monitoring_system_library\\Weather_monitoring_system_library.csproj|c:\\users\\ankit\\source\\repos\\weather_monitoring_system\\weather_monitoring_system_library\\weatherstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B610081-41D8-440F-BD34-117D3D9ED9C5}|Weather_monitoring_system_library\\Weather_monitoring_system_library.csproj|solutionrelative:weather_monitoring_system_library\\weatherstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B610081-41D8-440F-BD34-117D3D9ED9C5}|Weather_monitoring_system_library\\Weather_monitoring_system_library.csproj|c:\\users\\ankit\\source\\repos\\weather_monitoring_system\\weather_monitoring_system_library\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B610081-41D8-440F-BD34-117D3D9ED9C5}|Weather_monitoring_system_library\\Weather_monitoring_system_library.csproj|solutionrelative:weather_monitoring_system_library\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B610081-41D8-440F-BD34-117D3D9ED9C5}|Weather_monitoring_system_library\\Weather_monitoring_system_library.csproj|c:\\users\\ankit\\source\\repos\\weather_monitoring_system\\weather_monitoring_system_library\\idisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B610081-41D8-440F-BD34-117D3D9ED9C5}|Weather_monitoring_system_library\\Weather_monitoring_system_library.csproj|solutionrelative:weather_monitoring_system_library\\idisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B610081-41D8-440F-BD34-117D3D9ED9C5}|Weather_monitoring_system_library\\Weather_monitoring_system_library.csproj|c:\\users\\ankit\\source\\repos\\weather_monitoring_system\\weather_monitoring_system_library\\currentconditionsdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B610081-41D8-440F-BD34-117D3D9ED9C5}|Weather_monitoring_system_library\\Weather_monitoring_system_library.csproj|solutionrelative:weather_monitoring_system_library\\currentconditionsdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B610081-41D8-440F-BD34-117D3D9ED9C5}|Weather_monitoring_system_library\\Weather_monitoring_system_library.csproj|c:\\users\\ankit\\source\\repos\\weather_monitoring_system\\weather_monitoring_system_library\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B610081-41D8-440F-BD34-117D3D9ED9C5}|Weather_monitoring_system_library\\Weather_monitoring_system_library.csproj|solutionrelative:weather_monitoring_system_library\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20265595-9A7B-4FFE-82CA-C92DD5A20643}|Weather_monitoring_system\\Weather_monitoring_system.csproj|c:\\users\\ankit\\source\\repos\\weather_monitoring_system\\weather_monitoring_system\\weather_monitoring_system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{20265595-9A7B-4FFE-82CA-C92DD5A20643}|Weather_monitoring_system\\Weather_monitoring_system.csproj|solutionrelative:weather_monitoring_system\\weather_monitoring_system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20265595-9A7B-4FFE-82CA-C92DD5A20643}|Weather_monitoring_system\\Weather_monitoring_system.csproj|c:\\users\\ankit\\source\\repos\\weather_monitoring_system\\weather_monitoring_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20265595-9A7B-4FFE-82CA-C92DD5A20643}|Weather_monitoring_system\\Weather_monitoring_system.csproj|solutionrelative:weather_monitoring_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B610081-41D8-440F-BD34-117D3D9ED9C5}|Weather_monitoring_system_library\\Weather_monitoring_system_library.csproj|c:\\users\\ankit\\source\\repos\\weather_monitoring_system\\weather_monitoring_system_library\\weather_monitoring_system_library.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B610081-41D8-440F-BD34-117D3D9ED9C5}|Weather_monitoring_system_library\\Weather_monitoring_system_library.csproj|solutionrelative:weather_monitoring_system_library\\weather_monitoring_system_library.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StatisticsDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\ankit\\source\\repos\\Weather_monitoring_system\\Weather_monitoring_system_library\\StatisticsDisplay.cs",
+              "RelativeDocumentMoniker": "Weather_monitoring_system_library\\StatisticsDisplay.cs",
+              "ToolTip": "C:\\Users\\ankit\\source\\repos\\Weather_monitoring_system\\Weather_monitoring_system_library\\StatisticsDisplay.cs",
+              "RelativeToolTip": "Weather_monitoring_system_library\\StatisticsDisplay.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAIwDwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:42:47.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CurrentConditionsDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\ankit\\source\\repos\\Weather_monitoring_system\\Weather_monitoring_system_library\\CurrentConditionsDisplay.cs",
+              "RelativeDocumentMoniker": "Weather_monitoring_system_library\\CurrentConditionsDisplay.cs",
+              "ToolTip": "C:\\Users\\ankit\\source\\repos\\Weather_monitoring_system\\Weather_monitoring_system_library\\CurrentConditionsDisplay.cs",
+              "RelativeToolTip": "Weather_monitoring_system_library\\CurrentConditionsDisplay.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAswCMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:38:21.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ForecastDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\ankit\\source\\repos\\Weather_monitoring_system\\Weather_monitoring_system_library\\ForecastDisplay.cs",
+              "RelativeDocumentMoniker": "Weather_monitoring_system_library\\ForecastDisplay.cs",
+              "ToolTip": "C:\\Users\\ankit\\source\\repos\\Weather_monitoring_system\\Weather_monitoring_system_library\\ForecastDisplay.cs",
+              "RelativeToolTip": "Weather_monitoring_system_library\\ForecastDisplay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:40:21.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\ankit\\source\\repos\\Weather_monitoring_system\\Weather_monitoring_system_library\\IDisplay.cs",
+              "RelativeDocumentMoniker": "Weather_monitoring_system_library\\IDisplay.cs",
+              "ToolTip": "C:\\Users\\ankit\\source\\repos\\Weather_monitoring_system\\Weather_monitoring_system_library\\IDisplay.cs",
+              "RelativeToolTip": "Weather_monitoring_system_library\\IDisplay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:41:43.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ankit\\source\\repos\\Weather_monitoring_system\\Weather_monitoring_system_library\\Class1.cs",
+              "RelativeDocumentMoniker": "Weather_monitoring_system_library\\Class1.cs",
+              "ToolTip": "C:\\Users\\ankit\\source\\repos\\Weather_monitoring_system\\Weather_monitoring_system_library\\Class1.cs",
+              "RelativeToolTip": "Weather_monitoring_system_library\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:35:47.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherData.cs",
+              "DocumentMoniker": "C:\\Users\\ankit\\source\\repos\\Weather_monitoring_system\\Weather_monitoring_system_library\\WeatherData.cs",
+              "RelativeDocumentMoniker": "Weather_monitoring_system_library\\WeatherData.cs",
+              "ToolTip": "C:\\Users\\ankit\\source\\repos\\Weather_monitoring_system\\Weather_monitoring_system_library\\WeatherData.cs",
+              "RelativeToolTip": "Weather_monitoring_system_library\\WeatherData.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAwwFcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:44:04.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherStation.cs",
+              "DocumentMoniker": "C:\\Users\\ankit\\source\\repos\\Weather_monitoring_system\\Weather_monitoring_system_library\\WeatherStation.cs",
+              "RelativeDocumentMoniker": "Weather_monitoring_system_library\\WeatherStation.cs",
+              "ToolTip": "C:\\Users\\ankit\\source\\repos\\Weather_monitoring_system\\Weather_monitoring_system_library\\WeatherStation.cs",
+              "RelativeToolTip": "Weather_monitoring_system_library\\WeatherStation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:45:48.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Weather_monitoring_system",
+              "DocumentMoniker": "C:\\Users\\ankit\\source\\repos\\Weather_monitoring_system\\Weather_monitoring_system\\Weather_monitoring_system.csproj",
+              "RelativeDocumentMoniker": "Weather_monitoring_system\\Weather_monitoring_system.csproj",
+              "ToolTip": "C:\\Users\\ankit\\source\\repos\\Weather_monitoring_system\\Weather_monitoring_system\\Weather_monitoring_system.csproj",
+              "RelativeToolTip": "Weather_monitoring_system\\Weather_monitoring_system.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-09T16:50:54.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ankit\\source\\repos\\Weather_monitoring_system\\Weather_monitoring_system\\Program.cs",
+              "RelativeDocumentMoniker": "Weather_monitoring_system\\Program.cs",
+              "ToolTip": "C:\\Users\\ankit\\source\\repos\\Weather_monitoring_system\\Weather_monitoring_system\\Program.cs",
+              "RelativeToolTip": "Weather_monitoring_system\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:29:51.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Weather_monitoring_system_library",
+              "DocumentMoniker": "C:\\Users\\ankit\\source\\repos\\Weather_monitoring_system\\Weather_monitoring_system_library\\Weather_monitoring_system_library.csproj",
+              "RelativeDocumentMoniker": "Weather_monitoring_system_library\\Weather_monitoring_system_library.csproj",
+              "ToolTip": "C:\\Users\\ankit\\source\\repos\\Weather_monitoring_system\\Weather_monitoring_system_library\\Weather_monitoring_system_library.csproj",
+              "RelativeToolTip": "Weather_monitoring_system_library\\Weather_monitoring_system_library.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-09T16:35:56.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

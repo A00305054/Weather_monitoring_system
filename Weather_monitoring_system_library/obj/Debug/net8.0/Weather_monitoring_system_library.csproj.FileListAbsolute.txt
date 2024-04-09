@@ -1,0 +1,11 @@
+C:\Users\ankit\source\repos\Weather_monitoring_system\Weather_monitoring_system_library\obj\Debug\net8.0\Weather_monitoring_system_library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankit\source\repos\Weather_monitoring_system\Weather_monitoring_system_library\obj\Debug\net8.0\Weather_monitoring_system_library.AssemblyInfoInputs.cache
+C:\Users\ankit\source\repos\Weather_monitoring_system\Weather_monitoring_system_library\obj\Debug\net8.0\Weather_monitoring_system_library.AssemblyInfo.cs
+C:\Users\ankit\source\repos\Weather_monitoring_system\Weather_monitoring_system_library\obj\Debug\net8.0\Weather_monitoring_system_library.csproj.CoreCompileInputs.cache
+C:\Users\ankit\source\repos\Weather_monitoring_system\Weather_monitoring_system_library\bin\Debug\net8.0\Weather_monitoring_system_library.deps.json
+C:\Users\ankit\source\repos\Weather_monitoring_system\Weather_monitoring_system_library\bin\Debug\net8.0\Weather_monitoring_system_library.dll
+C:\Users\ankit\source\repos\Weather_monitoring_system\Weather_monitoring_system_library\bin\Debug\net8.0\Weather_monitoring_system_library.pdb
+C:\Users\ankit\source\repos\Weather_monitoring_system\Weather_monitoring_system_library\obj\Debug\net8.0\Weather_monitoring_system_library.dll
+C:\Users\ankit\source\repos\Weather_monitoring_system\Weather_monitoring_system_library\obj\Debug\net8.0\refint\Weather_monitoring_system_library.dll
+C:\Users\ankit\source\repos\Weather_monitoring_system\Weather_monitoring_system_library\obj\Debug\net8.0\Weather_monitoring_system_library.pdb
+C:\Users\ankit\source\repos\Weather_monitoring_system\Weather_monitoring_system_library\obj\Debug\net8.0\ref\Weather_monitoring_system_library.dll

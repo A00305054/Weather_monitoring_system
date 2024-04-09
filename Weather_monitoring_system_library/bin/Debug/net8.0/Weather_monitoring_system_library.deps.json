@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Weather_monitoring_system_library/1.0.0": {
+        "runtime": {
+          "Weather_monitoring_system_library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Weather_monitoring_system_library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
